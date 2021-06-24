@@ -1,2 +1,3 @@
 # Matlab_automatic_analysis
 Automatic methods for processing long video and audio recordings combined with global position system (GPS) information
+The illustration of the solution on two study cases involving videos from a stationary camera and a wearable camera mounted on the animal’s body. Accordingly, two different data processing procedures are presented. The first method allows determining the position of the animal within a defined space using a stationary camera. The second method allows determining the intensity of the animal’s movement by the animal-borne camera. The software to process motion data was designed using MATLAB
