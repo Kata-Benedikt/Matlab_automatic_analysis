@@ -4,7 +4,7 @@ The illustration of the solution on two study cases involving videos from a stat
 
 **Supplementary material:**
 •	Supplementary File 1: The Matlab script for processing the stationary video-recording; the study of calves (Comments inside the script describe the processing process).
-•	Supplementary File 2: Instructions for using the Matlab program for the study of calves and dogs
-•	Supplementary File 3: The preview of the output video file for the study of calves (30 min long-lasting sequence)
+Supplementary File 2: Instructions for using the Matlab program for the study of calves and dogs
+Supplementary File 3: The preview of the output video file for the study of calves (30 min long-lasting sequence)
 •	Supplementary File 4: The output video file for the study of dogs
 •	Supplementary File 5: The Matlab script for processing the video-recording from the wearable camera; the study of dogs (Comments inside the script describe the processing process).
